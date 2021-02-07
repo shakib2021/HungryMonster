@@ -1,0 +1,26 @@
+
+
+a {
+    text-decoration: none;
+    transition: 0.2s;
+    color: #4e120b;
+}
+.contain{
+    margin-top:10px;
+    margin-left:30%;
+}
+#search{
+    background: tomato;
+    color: white;
+    height:40px;
+    border-radius: 2px;
+    border:2px solid tomato;
+}
+#inputValue{
+height:40px;
+}
+
+
+
+
+
